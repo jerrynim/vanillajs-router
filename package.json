@@ -1,0 +1,9 @@
+{
+    "name": "vanilla-router",
+    "scripts": {
+        "start": "vite"
+    },
+    "dependencies": {
+        "vite": "^2.6.14"
+    }
+}
